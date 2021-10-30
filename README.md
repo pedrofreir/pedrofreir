@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Pedro Arthur!
 
-- Estudando: Python, HTML5, CSS3, Javascript
+- Estudando: HTML5, CSS3, Python e JavaScript
 
  <div>
   <a href="https://github.com/pedrofreir">
